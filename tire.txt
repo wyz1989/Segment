@@ -1,0 +1,11 @@
+before sorted: ["\u5927", "\u5927\u5b66", "\u5927\u5b66\u751f", "\u6d3b\u52a8", "\u751f\u6d3b", "\u4e2d", "\u4e2d\u5fc3", "\u5fc3"]
+after sorted: ["\u4e2d", "\u4e2d\u5fc3", "\u5927", "\u5927\u5b66", "\u5927\u5b66\u751f", "\u5fc3", "\u6d3b\u52a8", "\u751f\u6d3b"]
+after balance adjust: ["\u5927\u5b66\u751f", "\u5927", "\u4e2d\u5fc3", "\u4e2d", "\u5927\u5b66", "\u6d3b\u52a8", "\u5fc3", "\u751f\u6d3b"]
+                                                                              大                                                                               
+                                                                            /  |  \                                                                            
+                                                                        中    学    活                                                                         
+                                                                         |     |  /  |  \                                                                      
+                                                                        心    心    动    生                                                                   
+                                                                                           |                                                                   
+                                                                                          活                                                                   
+yes
